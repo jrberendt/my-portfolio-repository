@@ -6,3 +6,5 @@ My logo (also: mylogo.png) https://new.express.adobe.com/publishedV2/urn:aaid:sc
 
 # Programming Logic
 PasswordLogic.pdf: A logic diagram of a password checker
+
+Python.png: Image that shows Python code to add two numbers.
