@@ -10,3 +10,6 @@ PasswordLogic.pdf: A logic diagram of a password checker.
 JackBerendtFlowerClass.pdf: Class diagram of a theoretical flower class.
 
 Python.png: Image that shows Python code to add two numbers.
+
+PythonOOP.png: Image that shows Python code of OOP representation of flowers.
+Flower.py: The code of this flower implementation.
