@@ -15,3 +15,5 @@ PythonOOP.png: Image that shows Python code of OOP representation of flowers.
 Flower.py: The code of this flower implementation.
 
 NetworkDesign.png: Image that shows design of a home network with two computers, a router, and a printer.
+
+SQLQuery.png: Querying product data from an SQL database.
