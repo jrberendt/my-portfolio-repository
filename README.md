@@ -17,3 +17,5 @@ Flower.py: The code of this flower implementation.
 NetworkDesign.png: Image that shows design of a home network with two computers, a router, and a printer.
 
 SQLQuery.png: Querying product data from an SQL database.
+
+Basic HTML page.
